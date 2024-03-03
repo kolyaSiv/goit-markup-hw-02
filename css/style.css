@@ -40,6 +40,10 @@ ul {
   color: #404bbf;
 }
 
+.header-comtact-link:hover,
+.header-comtact-link:focus {
+  color: #404bbf;
+}
 .header-comtact {
   font-style: normal;
 }
@@ -62,7 +66,7 @@ ul {
 .hero-title {
   font-weight: 700;
   font-size: 56px;
-  line-height: 1.08;
+  line-height: 1.07;
   letter-spacing: 0.02em;
   text-align: center;
   color: #fff;
@@ -73,7 +77,12 @@ ul {
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #fff;
+  background-color: #4d5ae5;
   cursor: pointer;
+}
+.hero-btn:hover,
+.hero-btn:focus {
+  background-color: #404bbf;
 }
 
 /*               advantages                      */
