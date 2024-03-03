@@ -171,9 +171,10 @@ ul {
 /*               footer                      */
 
 .footer {
+  background-color: #2e2f42;
 }
-.footer-logo span {
-  color: #4d5ae5;
+.footer-span {
+  color: #f4f4fd;
 }
 
 .footer-logo {
@@ -183,7 +184,7 @@ ul {
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  color: #f4f4fd;
+  color: #4d5ae5;
 }
 .footer-text {
   font-size: 16px;
